@@ -2,3 +2,6 @@ name: TreeGrow
 version: '${project.version}'
 main: org.hotal.treegrow.TreeGrow
 api-version: 1.19
+load: STARTUP
+authors: [蛍]
+description: Shiftキーを押すと木が成長するプラグイン
