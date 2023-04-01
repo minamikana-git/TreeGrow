@@ -1,0 +1,4 @@
+name: TreeGrow
+version: '${project.version}'
+main: org.hotal.treegrow.TreeGrow
+api-version: 1.19
